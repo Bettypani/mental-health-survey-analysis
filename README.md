@@ -21,6 +21,8 @@ In conclusion, the findings suggest that offering mental health benefits could p
 
 If you are interested in viewing the source data for this analysis, that can be found in the 'survey-data.csv' file within the 'resources' directory. The data was originally sourced from: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey?resource=download
 
+A presentation highlighting the findings of this analysis, including testing methodology, graphs, and next steps, can be found in the 'MBC Project 1 Mental Health Data.pdf' file within the 'resources' directory.
+
 Below is an example of the graphs used to visualize our results. These graphs, as well as additional graphs, the code used to generate them, and the code used to run our stat sig calcs, can be found in the 'survey-data-script-final.ipynb' file within the 'code' directory.
 
 Treatment status by Care Options
